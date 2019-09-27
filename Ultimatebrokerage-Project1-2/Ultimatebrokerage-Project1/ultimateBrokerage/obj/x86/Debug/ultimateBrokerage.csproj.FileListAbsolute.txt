@@ -1,0 +1,141 @@
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+G:\ultimateBrokerage\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+G:\ultimateBrokerage\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+G:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+F:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+F:\ultimateBrokerage\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\Basma.Basma-PC.001\Desktop\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+E:\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+E:\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+F:\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+F:\Application\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Downloads\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\R.Bey\Desktop\New folder\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.ChangePassword.resources
+C:\Users\R.Bey\Desktop\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.ChangePassword.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+C:\Users\R.Bey\Desktop\r.works\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.ChangePassword.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+D:\important\r.works\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.pdb
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csprojResolveAssemblyReference.cache
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.AddProperty.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.addrequest.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.admin.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.ChangePassword.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.home.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.listings.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.Properties.Resources.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.requests.resources
+F:\rayan\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.csproj.GenerateResource.Cache
+D:\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\bin\Debug\ultimateBrokerage.exe.config
+D:\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.exe
+D:\liu\rayan_courses\fall2014-2015\application\Ultimatebrokerage-Project1-2\Ultimatebrokerage-Project1\ultimateBrokerage\obj\x86\Debug\ultimateBrokerage.pdb

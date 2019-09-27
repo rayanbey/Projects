@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UltimatebrockrageDataClasses">
+  <DataContextMoniker Name="/UltimatebrockrageDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="02246eb6-0ade-4bf0-a70c-2b74e775842b" absoluteBounds="3.625, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/UltimatebrockrageDataClassesDataContext/Requestss" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4723e5c6-a986-46c6-9c40-568add53fcab" absoluteBounds="3.64, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="323c74c3-2434-4091-8b9f-092a40e36446" absoluteBounds="0.875, 1.125, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/UltimatebrockrageDataClassesDataContext/property" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e5503c9-cc76-447b-acec-59c095fd5353" absoluteBounds="0.89000000000000012, 1.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

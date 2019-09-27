@@ -1,0 +1,134 @@
+USE [UltimatBrockrage]
+GO
+
+/****** Object:  Table [dbo].[Area]    Script Date: 11/10/2014 10:15:42 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Area](
+	[Area_Id] [int] NOT NULL,
+	[Area_Name] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Area] PRIMARY KEY CLUSTERED 
+(
+	[Area_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+USE [UltimatBrockrage]
+GO
+
+/****** Object:  Table [dbo].[Photos]    Script Date: 11/10/2014 10:16:12 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Photos](
+	[Photo_Id] [int] NOT NULL,
+	[reference] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Photos] PRIMARY KEY CLUSTERED 
+(
+	[Photo_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+USE [UltimatBrockrage]
+GO
+
+/****** Object:  Table [dbo].[Property]    Script Date: 11/10/2014 10:16:42 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[Property](
+	[reference] [varchar](50) NOT NULL,
+	[exchange] [varchar](50) NOT NULL,
+	[type] [varchar](50) NOT NULL,
+	[areaname] [varchar](50) NOT NULL,
+	[size] [varchar](50) NOT NULL,
+	[bedrooms] [varchar](50) NOT NULL,
+	[bathrooms] [varchar](50) NOT NULL,
+	[floor] [varchar](50) NOT NULL,
+	[parking] [varchar](50) NOT NULL,
+	[price] [varchar](50) NOT NULL,
+	[contact1] [varchar](50) NOT NULL,
+	[tel1] [varchar](50) NOT NULL,
+	[location] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_Property] PRIMARY KEY CLUSTERED 
+(
+	[reference] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+USE [UltimatBrockrage]
+GO
+
+/****** Object:  Table [dbo].[request]    Script Date: 11/10/2014 10:16:58 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[request](
+	[request_Id] [int] NOT NULL,
+	[reference] [nvarchar](50) NOT NULL,
+	[name] [nvarchar](50) NOT NULL,
+	[Phone] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_request] PRIMARY KEY CLUSTERED 
+(
+	[request_Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+USE [UltimatBrockrage]
+GO
+
+/****** Object:  Table [dbo].[User]    Script Date: 11/10/2014 10:17:15 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[User](
+	[id] [int] NOT NULL,
+	[user] [nvarchar](50) NOT NULL,
+	[pass] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_User] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+
